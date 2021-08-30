@@ -1,0 +1,163 @@
+#tittle {
+    
+    
+    padding: 265px 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    color: rgb(58, 58, 58);
+    background-image: url("backgroundImage.jpg");
+    text-align: top;text-align: right;
+
+}
+
+#intro {
+    padding: 20px 20px;
+    font-family: segoe UI;
+    text-align: center;
+    background-color: green;
+    
+}
+
+#welcomeBtn {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 42.5%;
+    padding: 15px 60px;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+}
+
+#welcomeBtn:hover {
+    color: grey;
+    background-color: white;
+}
+
+#welcomeBtn:active {
+    color: black;
+    background-color:white;
+}
+
+#welcomeBtn:unhover {
+    color: grey;
+    background-color: white;
+}
+
+#videoInvitation1 {
+    padding: 0px 735px;
+    font-family: 'Segoe UI';
+}
+
+#secondLink {
+    padding: 0px 783px;
+    font-family: "segoe UI";
+}
+
+#welcomeBtn2 {
+    padding: 15px 60px;
+    margin-left: 42.5%;
+    padding: 15px 60px;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+}
+
+#welcomeBtn2:hover {
+    color: grey;
+    background-color: white;
+}
+
+#welcomeBtn2:active {
+    color: black;
+    background-color:white;
+}
+
+#welcomeBtn2:unhover {
+    color: grey;
+    background-color: white;
+}
+
+#linkInvitation {
+    color: white;
+    font-size: 20px;
+    font-family: "Segoe UI";
+    margin-left: 42.5%;
+}
+
+#discordLink {
+    color: grey;
+    font-family: "Segoe UI";
+    margin-left: 0%;
+    padding: 20px 750px;
+    
+}
+
+#youtubeLink {
+    color: grey;
+    font-family: "Segoe UI";
+    margin-left: 0%;
+    padding: 20px 750px;
+    
+}
+
+#githubLink {
+    color: grey;
+    font-family: "Segoe UI";
+    margin-left: 0%;
+    padding: 20px 750px;
+}
+
+#division {
+    background-color: black;
+}
+
+#dLink {
+    color: white;
+}
+
+#dLink:hover {
+    color: rgb(110, 0, 184);
+}
+
+#dLink:active {
+    color: rgb(38, 12, 71);
+}
+
+#dLink:unhover {
+    color: rgb(110, 0, 184);
+}
+
+#ytLink {
+    color: white;
+}
+
+#ytLink:hover {
+    color: red;
+}
+
+#ytLink:active {
+    color: darkred;
+}
+
+#ytLink:unhover {
+    color: red;
+}
+
+#gitLink {
+    color: white;
+}
+
+#gitLink:hovered {
+    color:rgb(56, 9, 117);
+}
+
+#gitLink:active {
+    color:darkviolet;
+}
+
+#gitLink:unhover {
+    color:rgb(38, 12, 71);
+}
+
+
+
+
